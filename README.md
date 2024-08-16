@@ -1,3 +1,5 @@
+Current progress: Made a very scratchy login system, yet to add JWT to it
+
 # JSON Web Tokens [ JWT ]
 ## Different ways of Authorization
 - Using Session ID
